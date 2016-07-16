@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{982F37A6-85EB-48E2-882E-23D88D36303B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HTML_Book_to_XML", "HTML_Book_to_XML\HTML_Book_to_XML.pyproj", "{AD2AC884-7BEB-4500-ACA5-F9AD3CBAE8CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{982F37A6-85EB-48E2-882E-23D88D36303B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{982F37A6-85EB-48E2-882E-23D88D36303B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2AC884-7BEB-4500-ACA5-F9AD3CBAE8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2AC884-7BEB-4500-ACA5-F9AD3CBAE8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
